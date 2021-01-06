@@ -12,3 +12,7 @@ https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sh
 Check out my Medium article for this.
 
 https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet-61a659d4868
+
+Also , check out my YouTube video on this 
+
+![](https://www.youtube.com)
