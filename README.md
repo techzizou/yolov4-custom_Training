@@ -1,4 +1,4 @@
-# Training a custom Yolov4 detector
+# Training a custom Yolov4 detector for mask detection
 
 Colab tutorial for training your custom Yolov4 detector. 
 
