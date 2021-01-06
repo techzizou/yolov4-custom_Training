@@ -1,10 +1,10 @@
-# Yolov4
+# Training a custom Yolov4 detector
 
 Colab tutorial for training your custom Yolov4 detector. 
 
 https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing
 
-# Object Detection for people with masks and without masks
+# Object Detection for masks
 
 
 ![](a.gif)
