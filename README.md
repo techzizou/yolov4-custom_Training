@@ -15,4 +15,4 @@ https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet
 
 Also , check out my YouTube video on this 
 
-![Youtube Link](https://www.youtube.com)
+[Youtube Link](https://www.youtube.com)
