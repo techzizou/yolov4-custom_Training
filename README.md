@@ -17,10 +17,8 @@ Also , check out my YouTube video on this
 
 [Youtube Link](https://www.youtube.com)
 
-# CREDITS
- **REFERENCES**
-
-
+ **CREDITS**
+ 
 *    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
 
 *    [pjreddie Github ](https://github.com/pjreddie/darknet)
