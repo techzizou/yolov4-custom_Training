@@ -17,19 +17,9 @@ Also , check out my YouTube video on this
 
 [Youtube Link](https://www.youtube.com)
 
- **CREDITS**
- 
-*    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
-
-*    [pjreddie Github ](https://github.com/pjreddie/darknet)
 
 
-*    [pjreddie darknet website](https://pjreddie.com/darknet/)
-
-*    [theAIGuysCode GitHub](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
-
-
- **DATASET SOURCES**
+# **DATASET SOURCES**
 
 You can download labeled datasets from the sites mentioned below. These sites contain images of many classes along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
 
@@ -42,7 +32,7 @@ You can download labeled datasets from the sites mentioned below. These sites co
 *   [VisualData Datasets](https://www.visualdata.io/discovery)
 
 
- **MASK DATASET SOURCES**
+# **MASK DATASET SOURCES**
 
 *   [Prajnasb Github](https://github.com/prajnasb/observations)
 
@@ -51,4 +41,15 @@ You can download labeled datasets from the sites mentioned below. These sites co
 *   [X-zhangyang Github](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 
 *   [Chandrikadeb7 Github](https://github.com/chandrikadeb7/Face-Mask-Detection)
+
+
+# **CREDITS**
+ 
+*    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
+
+*    [pjreddie Github ](https://github.com/pjreddie/darknet)
+
+*    [pjreddie darknet website](https://pjreddie.com/darknet/)
+
+*    [theAIGuysCode GitHub](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
 
