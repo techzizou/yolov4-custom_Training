@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sh
 # Object Detection for masks
 
 
-![](a.gif)
+![](z.gif)
 
 Check out my Medium article for this.
 
