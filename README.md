@@ -23,7 +23,7 @@ Also , check out my YouTube video on this
 
 # **CREDITS**
 
-   **RESEARCH SOURCES/REFERENCES**
+   **REFERENCES**
  
 *    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
 
