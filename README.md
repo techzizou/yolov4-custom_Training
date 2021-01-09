@@ -1,6 +1,6 @@
 # Training a custom Yolov4 detector for mask detection
 
-Colab tutorial for training your custom Yolov4 detector. 
+Colab tutorial for training a custom Yolov4 detector. 
 
 https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing
 
