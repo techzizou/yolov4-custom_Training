@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sh
 
 ![](z.gif)
 
-Check out my Medium article for this.
+Check out my Medium article on this.
 
 https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet-61a659d4868
 
