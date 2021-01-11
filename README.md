@@ -8,6 +8,8 @@ YOLOv4 is an object detection algorithm that is an evolution of the YOLOv3 model
 
 YOLOv4 uses many new features and combines some of them to achieve state-of-the-art results: 43.5% AP (65.7% AP50) for the MS COCO dataset at a real-time speed of ~65 FPS on Tesla V100.
 
+![](1b.png)
+
 
 # Object Detection for masks
 
@@ -69,5 +71,6 @@ You can download datasets for many objects from the sites mentioned below. These
     
 *   [Pexels site](https://www.pexels.com/)
 
+![](video2.gif)
 
 
