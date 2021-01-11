@@ -26,7 +26,7 @@ YOLOv4 uses many new features and combines some of them to achieve state-of-the-
 ![](1b.png)
 
 
-# **CREDITS**
+## **CREDITS**
 
    **References**
  
