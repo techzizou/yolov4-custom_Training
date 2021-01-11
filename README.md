@@ -34,6 +34,14 @@ YOLOv4 uses many new features and combines some of them to achieve state-of-the-
 
 *    [pjreddie Github ](https://github.com/pjreddie/darknet)
 
+*    [theAIGuysCode Github](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial) 
+
+*    [Paper YOLOv4](https://arxiv.org/abs/2004.10934)
+
+*    [Paper YOLOv4-scaled](https://arxiv.org/abs/2011.08036)
+
+*    [pjreddie Site](https://pjreddie.com/darknet/yolo/)
+
 
    **Dataset Sources**
 
