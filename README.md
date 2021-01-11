@@ -1,6 +1,4 @@
-# Training a custom Yolov4 detector for mask detection
-
-# Object Detection for masks
+# Training a custom detector for mask detection using YOLOv4
 
 ![](z.gif)
 
