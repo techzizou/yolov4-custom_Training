@@ -1,5 +1,8 @@
 # Training a custom detector for Object Detection using YOLOv4
 
+
+**Mask detection using YOLOv4**
+
 ![](z.gif)
 
 ## Colab tutorial for training a custom Yolov4 detector. 
