@@ -15,6 +15,8 @@ https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet
 [Youtube Link](https://www.youtube.com)
 
 
+![](video2.gif)
+
 ## What is YOLOv4?
 YOLO stands for You Only Look Once. YOLO is a state-of-the-art, real-time object detection system. It was developed by Joseph Redmon.
 YOLO uses a totally different approach than other previous detection systems. It applies a single neural network to the full image. This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities.
@@ -33,6 +35,6 @@ YOLOv4 uses many new features and combines some of them to achieve state-of-the-
 *    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
 
 
-![](video2.gif)
+
 
 
