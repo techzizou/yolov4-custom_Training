@@ -6,9 +6,11 @@
 
 The **yolov4** folder contains the 4 custom files needed. (i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images)
 
-I will be sharing my labeled custom mask dataset **obj.zip** file on the following link. You can download it from here.
+I will be sharing my labeled custom mask dataset **obj.zip** file on the following links. You can download it from here.
 
-https://www90.zippyshare.com/v/JpGui9bx/file.html
+https://www81.zippyshare.com/v/ViotEt84/file.html
+
+https://jmp.sh/kLy5A4f
 
 
 The **obj.zip** file contains 1510 images along with their YOLO labeled text files. There are around 900-950 images for class **with_mask** and around 400-450 images for class **without_mask**. 
