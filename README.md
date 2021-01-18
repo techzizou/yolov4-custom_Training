@@ -12,8 +12,8 @@ https://www81.zippyshare.com/v/ViotEt84/file.html
 
 https://jmp.sh/kLy5A4f
 
+The **obj.zip** file contains 1510 images along with their YOLO labeled text files. I have labeled around 1350 of these and downloaded 149 labeled images from roboflow. I have given the links for my dataset sources at the bottom. 
 
-The **obj.zip** file contains 1510 images along with their YOLO labeled text files. 
 This dataset has mostly close-up images (around 1300) and very few long shot images (around 200). If you want to download more long shot images, you can search for datasets online. There are many sites where you can find more datasets. Check out my Medium article below for links to these sites. You can add your own images and their YOLO labeled text files to the dataset. Try to find good quality images.
 
 **<ins>NOTE</ins>** : The **yolov4-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. with_mask & without_mask). You can edit these files for your custom object dataset.
