@@ -1,4 +1,4 @@
-# Training a custom detector for Object Detection using YOLOv4
+# Training a custom YOLOv4 object detector 
 
 ![](yolov4-mask.gif)
 
