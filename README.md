@@ -4,7 +4,7 @@
 
 ## **Mask detection using YOLOv4**
 
-The **yolov4** folder contains the 4 custom files needed. (i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images)
+The **yolov4** folder in this repository contains the 4 custom files needed. (i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images)
 
 I will be sharing my labeled custom mask dataset **obj.zip** file on the following links. You can download it from here.
 
