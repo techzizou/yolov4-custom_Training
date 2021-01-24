@@ -2,6 +2,8 @@
 
 ![](yolov4-mask.gif)
 
+Video by cottonbro from Pexels
+
 ## **Mask detection using YOLOv4**
 
 The **yolov4** folder in this repository contains the 4 custom files needed. (i.e. **yolov4-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images)
@@ -35,6 +37,8 @@ https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet
 
 
 ![](video2.gif)
+
+Video by Nothing Ahead from Pexels
 
 # CREDITS 
 
