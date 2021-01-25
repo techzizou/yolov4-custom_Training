@@ -10,9 +10,7 @@ The **yolov4** folder in this repository contains the 4 custom files needed. (i.
 
 I have shared my labeled custom mask dataset **obj.zip** file on the following links. You can download it from here.
 
-https://www81.zippyshare.com/v/ViotEt84/file.html
-
-https://jmp.sh/kLy5A4f
+https://drive.google.com/file/d/15HYpPsT-GTWO8vIVOrVnHlBkJ_MdWJza/view?usp=sharing
 
 The **obj.zip** file contains 1510 images along with their YOLO labeled text files. I have labeled around 1350 of these and downloaded 149 labeled images from roboflow. I have given the links for my dataset sources at the bottom. 
 
