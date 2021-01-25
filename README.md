@@ -2,7 +2,7 @@
 
 ![](yolov4-mask.gif)
 
-Video by cottonbro from Pexels
+Original Video by cottonbro from Pexels
 
 ## **Mask detection using YOLOv4**
 
@@ -38,7 +38,7 @@ https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet
 
 ![](video2.gif)
 
-Video by Nothing Ahead from Pexels
+Original Video by Nothing Ahead from Pexels
 
 # CREDITS 
 
