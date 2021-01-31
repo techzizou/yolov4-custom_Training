@@ -45,7 +45,8 @@ Original Video by Nothing Ahead from Pexels
 
 ## Mask Dataset Sources
 
-I have used these 3. Check out my medium article above for more mask datasets.
+
+I have used these 3 datasets for my labeled **obj.zip** dataset. Check out my medium article above for more mask datasets.
 
 [Prajnasb Github](https://github.com/prajnasb/observations)
 
