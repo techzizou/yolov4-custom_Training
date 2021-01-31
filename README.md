@@ -1,4 +1,4 @@
-# Training a custom YOLOv4 object detector 
+# Train a custom YOLOv4 object detector 
 
 ![](yolov4-mask.gif)
 
@@ -22,7 +22,7 @@ Check out my Medium article below for links to these sites. I have also given a 
 
 
 
-## Colab tutorial for training a custom Yolov4 detector. 
+## My Colab notebook for training a custom Yolov4 detector. 
 
 https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing
 
