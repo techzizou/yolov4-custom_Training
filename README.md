@@ -14,8 +14,9 @@ https://drive.google.com/file/d/15HYpPsT-GTWO8vIVOrVnHlBkJ_MdWJza/view?usp=shari
 
 The **obj.zip** file contains 1510 images along with their YOLO labeled text files. I have labeled around 1350 of these and downloaded 149 labeled images from roboflow. I have given the links for my dataset sources at the bottom. 
 
-**This dataset has mostly close-up images (around 1300) and very few long-shot images (around 200). If you want to download more long-shot images, you can search for datasets online. There are many sites where you can find more datasets. 
-Check out my Medium article below for links to these sites. I have also given a few links for mask datasets. Some of them have more than 10,000 images. You can add your own images and their YOLO labeled text files to the dataset. Try to find good quality images.**
+**This dataset has mostly close-up images (around 1300) and very few long-shot images (around 200). If you want to download more long-shot images, you can search for datasets online. There are many sites where you can find more datasets. **
+
+**Check out my Medium article below for links to these sites. I have also given a few links for mask datasets. Some of them have more than 10,000 images. You can add your own images and their YOLO labeled text files to the dataset. Try to find good quality images.**
 
 **<ins>NOTE</ins>** : The **yolov4-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. "with_mask" & "without_mask"). You can edit these files for your custom objects.
 
@@ -26,7 +27,7 @@ Check out my Medium article below for links to these sites. I have also given a 
 
 https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sharing
 
-## Check out my Medium article on this.
+## My Medium article on this.
 
 https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet-61a659d4868
 
