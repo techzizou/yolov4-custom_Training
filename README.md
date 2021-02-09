@@ -24,7 +24,7 @@ https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sh
 
 ## My Medium article on this.
 
-https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet-61a659d4868
+https://techzizou007.medium.com/train-a-custom-yolov4-object-detector-using-google-colab-61a659d4868
 
 
 ![](video2.gif)
