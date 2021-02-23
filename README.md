@@ -49,9 +49,6 @@ I have used these 3 datasets for my labeled **obj.zip** dataset. Check out my me
 
 [X-zhangyang Github](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 
-## Video Sources
-
-[Pexels site](https://www.pexels.com)
 
 ![](video2.gif)
 
