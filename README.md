@@ -26,10 +26,10 @@ https://colab.research.google.com/drive/1zqRb08ljHvIIMR4fgAXeNy1kUtjDU85B?usp=sh
 
 https://techzizou007.medium.com/train-a-custom-yolov4-object-detector-using-google-colab-61a659d4868
 
+## Watch my YouTube Video on this
 
-![](video2.gif)
+https://youtu.be/SCAgktactKE
 
-Original Video by Nothing Ahead from Pexels
 
 # CREDITS 
 
@@ -52,6 +52,10 @@ I have used these 3 datasets for my labeled **obj.zip** dataset. Check out my me
 ## Video Sources
 
 [Pexels site](https://www.pexels.com)
+
+![](video2.gif)
+
+Original Video by Nothing Ahead from Pexels
 
 
 
