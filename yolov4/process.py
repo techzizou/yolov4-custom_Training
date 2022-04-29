@@ -26,3 +26,6 @@ for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):
     else:
         file_train.write("data/obj" + "/" + title + '.jpg' + "\n")
         counter = counter + 1
+
+file_train.close()
+file_test.close()
